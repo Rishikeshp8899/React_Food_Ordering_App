@@ -1,0 +1,41 @@
+form{
+    margin: 5%;
+    margin-left: 15%;
+    width: 55%;
+    height: 70vh;
+    background-color:#fff7f2;
+    border-radius: 14px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+}
+.registers{
+    height: 400px;
+}
+form h2{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+form h4{
+    text-align: left;
+    margin-left: 20px;
+    
+}
+.form-group > input {
+    width: 90%;
+    color: black;
+    background-color: rgb(214, 213, 213);
+    padding: 14px 20px;
+    margin: 8px 2px 10px 24px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+  }
+
+.button-submit{
+    text-align: center;
+
+}
+.forgot-password {
+    text-align: center;
+}

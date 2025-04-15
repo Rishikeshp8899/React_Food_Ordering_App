@@ -1,0 +1,8 @@
+.homepage{
+    width: 96%;
+    margin: 0 1% 0 1%;
+    height: 96%;
+    display: grid;
+    grid-template-columns: 15% 80% ;
+    background-color: bisque;
+}

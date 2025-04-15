@@ -1,0 +1,77 @@
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.thumbnail img {
+    width: 100%;
+}
+.thumbnail img{
+  width: 300px;
+  height: 300px;
+}
+button {
+  display: inline-block;
+  position: relative;
+  height: 33px;
+  width: 50%;
+  margin-bottom: 5%;
+  line-height: 33px;
+  padding: 0 15px;
+  font-size: 15px;
+  background-color: #141414;
+  cursor: pointer;
+  color: goldenrod;
+  border: 2px solid wheat;
+  border-radius: 7px;
+}
+button:hover{
+  background-color: #352315;
+}
+button:active{
+ 
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+ 
+}
+#butt1:active{
+  background-color: #3e8e41;
+}
+hr.hr1 {
+  border-top: 1px solid black;
+}
+
+#uyt{
+  margin: 1%;
+}
+.cardsk {
+  margin: 0;
+  padding: 1%;
+  overflow-x: hidden;
+}
+.cardsk {
+  margin-right: -20px;
+  height: 95vh;
+overflow-y: scroll;
+
+scrollbar-width: none;          /* Firefox */
+-ms-overflow-style: none;       /* IE and Edge */
+}
+.column::-webkit-scrollbar {
+display: none;                  /* Chrome, Safari, Opera */
+}
+#uyt {
+  box-sizing: border-box;
+  width: 25%;
+  padding-right: 20px;
+  float: left;
+  border: 2px solid black;
+  border-radius: 1%;
+  box-shadow: black;
+}
+.caption{
+  margin: 2% 0% 1% 5%;
+}

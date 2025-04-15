@@ -1,0 +1,141 @@
+.nav{  
+    top:0%;
+    bottom:74;
+    margin-top: 0%;
+    height:550px;
+    background-color: transparent;
+  
+ }
+ .swiper-container {
+       width: 100%;
+       height:100%;  
+     }
+ .swiper-slide {
+       overflow :hidden;
+    
+     }
+ .swiper-slide:hover{
+  background-color: #e5d3b8;
+ ;
+ 
+ }
+ 
+ 
+ .btn-group button {
+   background-color: gold; 
+   border: 1px solid gold; 
+   color: white; 
+   padding: 10px 24px; 
+   cursor: pointer; 
+   width: 300px; 
+   height: 200px;
+   display: block; 
+   width: 120px;
+ }
+ 
+ .btn-group button:not(:last-child) {
+   border-bottom: none; 
+ }
+ 
+ 
+ .btn-group button:hover {
+   background-color: #352315;
+ }
+ .aside{
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+ }
+
+ .column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  margin-bottom: 0;
+  height: 95vh;
+  overflow-y: scroll;
+
+  scrollbar-width: none;          /* Firefox */
+  -ms-overflow-style: none;       /* IE and Edge */
+}
+.column::-webkit-scrollbar {
+  display: none;                  /* Chrome, Safari, Opera */
+}
+
+ .row:after {
+  display: table;
+   clear: both;
+ }
+ .Breakfast{
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+ }
+ 
+ .column {
+   float: left;
+   width:40%;
+   padding: 10px;
+   margin-bottom:0;
+  
+ }
+ 
+
+ .row:after1 {
+  display: table;
+   clear: both;
+ }
+ 
+ .container{
+ width: 1000px;
+ height: 600px;
+ background-color: transparent;
+ margin-left: -250px;
+ 
+ }
+ .burg1{
+   overflow: hidden;
+ }
+ 
+ 
+ .thumbnail {
+     position: relative;
+     padding: 0px;
+     margin-bottom: 20px;
+     
+     
+ }
+ 
+ .thumbnail img {
+     width: 100%;
+ }
+ .thumbnail img{
+   width: 300px;
+   height: 300px;
+ }
+ #butt1 {
+   display: inline-block;
+   position: relative;
+   height: 33px;
+   width: 70px;
+   line-height: 33px;
+   padding: 0 15px;
+   font-size: 15px;
+   color: mintcream;
+   
+   
+   text-decoration: none;
+   text-shadow: 0 -1px rgba(0, 0, 0, 0.3);
+   border: 2px solid;
+   border-radius: 7px;
+   outline: 0;
+   -webkit-box-shadow: 0 2px 1px rgba(0, 0, 0, 0.25);
+   box-shadow: 0 2px 1px rgba(0, 0, 0, 0.25);
+   background-color: #8c623a;
+ }
+ .butt1:hover{
+   background-color: darkred;
+ }
+ hr.hr1 {
+   border-top: 1px solid black;
+ }

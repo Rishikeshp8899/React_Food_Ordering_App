@@ -1,0 +1,41 @@
+.heder_home{
+background-color: #141414;
+height: 20%;
+top:0px;
+width: 100%;
+left: 0px;
+margin-bottom: 1px;
+}
+
+
+.headerl{
+    background-color:#352315;
+  
+    top:2%;
+   bottom: 83%;
+    width:100%;
+    left:0px;
+  }  
+  .headerl ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+  }
+  .headerl li{
+    float: left;
+  }
+  
+  .headerl li a{
+  display: block;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  
+  }
+  .headerl li a:hover{
+  background-color: darkred;
+  
+  }
+  

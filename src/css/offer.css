@@ -1,0 +1,55 @@
+.cardmb-3{
+width: 55%;
+margin: 1%;
+margin-left: 7%;
+height: fit-content;
+display: grid;
+grid-template-columns: 50% 50% ;
+background-color: #8c623a;
+border-radius: 7px;
+        border: 2px dotted wheat;
+
+}
+.cardbody p{
+    font-family: Times, Times New Roman, Georgia, serif;
+}
+.cardbody button{
+text-align: center;
+}
+.cardmb-4{
+    width: 55%;
+    margin: 1%;
+    margin-left: 7%;
+    height: fit-content;
+    display: grid;
+    grid-template-columns: 50% 50% ;
+    background-color: #8c623a;
+    border-radius: 7px;
+        border: 2px dotted wheat;
+    
+    }
+    .cardbody1 p{
+        font-family: Times, Times New Roman, Georgia, serif;
+    }
+    .cardbody1 button{
+    text-align: center;
+    }
+
+    .cardmb-5{
+        width: 55%;
+        margin: 1%;
+        margin-left: 7%;
+        height: fit-content;
+        display: grid;
+        grid-template-columns: 50% 50% ;
+        background-color: #8c623a;
+        border-radius: 7px;
+        border: 2px dotted wheat;
+        
+        }
+        .cardbody2 p{
+            font-family: Times, Times New Roman, Georgia, serif;
+        }
+        .cardbody2 button{
+        text-align: center;
+        }

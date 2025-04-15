@@ -1,0 +1,15 @@
+.cardsk {
+    margin: 0;
+    padding: 1%;
+    overflow-x: hidden;
+  }
+  .cardsk {
+    margin-right: -20px;
+  }
+  #uyt {
+    box-sizing: border-box;
+    width: 25%;
+    padding-right: 20px;
+    float: left;
+  }
+ 
